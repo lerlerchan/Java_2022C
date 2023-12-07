@@ -1,6 +1,10 @@
 import java.util.Scanner;
 class sst {
     public static void main(String[] args) {
+
+       // System.out.println("\uD83D\uDC7D");
+       System.out.println(":-) \n/ \\\n| |\n\\___/"); 
+
        // declare price
        double price;
        double total;
