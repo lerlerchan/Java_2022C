@@ -14,6 +14,8 @@ class Game {
 		// array of strings containing words 
 		String[] company = { "Maruti", "Tata", "Suzuki", 
 							"Ducati", "Toyota" }; 
+		System.out.println(company[0]);
+		// maruti
 		System.out.println( 
 			" Welcome to HANGMAN GAME "); 
 
