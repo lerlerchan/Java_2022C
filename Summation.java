@@ -11,5 +11,6 @@ public class Summation{
             sum += arr[count];
         }
         System.out.println("The sum of the numbers is: "+sum);
+        System.out.println("happy coding!");
     }
 }
