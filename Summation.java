@@ -12,5 +12,6 @@ public class Summation{
         }
         System.out.println("The sum of the numbers are: "+sum);
         System.out.println("happy coding!");
+        System.out.println("waHahahah");
     }
 }
